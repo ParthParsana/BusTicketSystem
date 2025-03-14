@@ -131,7 +131,7 @@ export default function AddBus() {
               <TableCell>To</TableCell>
               <TableCell>Seat</TableCell>
               <TableCell>Price</TableCell>
-              <TableCell>Journey-Date</TableCell>
+              <TableCell>Journey Date</TableCell>
               <TableCell>Actions</TableCell>
             </TableRow>
           </TableHead>
